@@ -1,0 +1,58 @@
+Tela de Login:
+
+-Campo de e-mail/telefone e senha.
+-Botão de login.
+-Opção para recuperar senha.
+
+Tela de Registro:
+
+-Campos para nome, e-mail, senha, e telefone.
+-Botão de registro.
+-Opção para login com contas de redes sociais.
+
+Tela Inicial do Cliente:
+
+-Lista de categorias de produtos (por exemplo, Medicamentos, Cuidados Pessoais, etc.).
+-Barra de pesquisa.
+-Ofertas e promoções destacadas.
+
+Tela de Detalhes do Produto:
+
+-Imagem do produto.
+-Nome, descrição e preço do produto.
+-Botões para adicionar ao carrinho e avaliar o produto.
+
+Carrinho de Compras:
+
+-Lista de produtos no carrinho.
+-Quantidade ajustável por produto.
+-Total do carrinho e opção para finalizar compra.
+
+Tela de Checkout:
+
+-Informações de entrega (endereço, método de pagamento).
+-Resumo do pedido.
+-Botão para confirmar o pedido.
+
+Tela de Acompanhamento do Pedido:
+
+-Status do pedido em tempo real (preparação, entrega, entregue).
+-Detalhes do pedido (itens, data de entrega estimada, etc.).
+
+Tela do Entregador:
+
+-Lista de pedidos pendentes para entrega.
+-Detalhes do pedido selecionado.
+-Atualizar status de entrega.
+
+Tela do Atendente/Farmacêutico:
+
+-Lista de pedidos a serem preparados.
+-Detalhes do pedido com lista de itens.
+-Marcar pedido como preparado.
+
+Tela do Admin do Site:
+
+-Painel de controle com estatísticas de uso.
+-Gerenciamento de farmácias parceiras.
+-Gerenciamento de entregadores.
