@@ -1,1 +1,31 @@
+Modelo Lógico de Dados
 
+Entidade: Cliente
+  Atributos:
+    -ID (Chave Primária)
+    -Nome
+    -E-mail
+    -Telefone
+    -Endereço
+
+Entidade: Produto
+  Atributos:
+    -ID (Chave Primária)
+    -Nome
+    -Descrição
+    -Preço
+    -Categoria (por exemplo, Medicamentos, Cuidados Pessoais, etc.)
+
+Entidade: Pedido
+  Atributos:
+    -ID (Chave Primária)
+    -Data do Pedido
+    -Status do Pedido (por exemplo, Pendente, Preparação, Entregue, Cancelado)
+    -ID do Cliente (Chave Estrangeira relacionada à entidade Cliente)
+
+Entidade Associativa: Itens do Pedido
+  Atributos:
+    -ID do Item (Chave Primária)
+    -Quantidade
+    -ID do Produto (Chave Estrangeira relacionada à entidade Produto)
+    -ID do Pedido (Chave Estrangeira relacionada à entidade Pedido)
